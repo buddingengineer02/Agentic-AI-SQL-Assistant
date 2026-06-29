@@ -1,0 +1,8 @@
+streamlit
+crewai
+langchain-google-genai
+langchain
+sqlalchemy
+sqlparse
+pandas
+python-dotenv
